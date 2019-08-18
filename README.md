@@ -38,7 +38,7 @@ To inject a new process into Linux, we need to hijack the execution flow of the 
 
 ### Diagrammatic Representation
 
-![Injector code flow](images/linux_injector_transparent.png)
+![Injector code flow](images/linux_injector.png)
 
 
 ### Injection of a New Process in Detail

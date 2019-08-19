@@ -79,11 +79,11 @@ Current implementation:
     - Now we write shellcode to memory allocated and set RIP to a memory address.
     - It should execute the shellcode, but it ends with Seg Fault in the running process. It needs some debugging to correct this behavior.
 
-
 I will create a seperate blog for shellcode injection and execution when it is completed.
 
-How to Run the Injector
------------------------ 
+
+How to run the injector
+-----------------------
 
 Process Injection
 
@@ -139,4 +139,4 @@ This GSoC experience with Project drakvuf was unimaginable for a Bachelor. All o
 Credits
 -------
 
-Thanks....(todo)
+Thank you so much! To my mentor @tklengyel for encouraging and guiding me the whole summer, the GSoC team for providing university students such opensource opportunities and of course, The Honeynet Project for allowing me to participate in this event!
